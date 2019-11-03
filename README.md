@@ -1,2 +1,2 @@
 # homeassistant-integration-transmission
-Custom transmission integration for HomeAssistant
+Forked code from official HomeAssistant with minor tweaks
